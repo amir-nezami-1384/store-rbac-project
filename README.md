@@ -35,10 +35,10 @@ It was developed collaboratively as part of a university assignment.
 
 ## Team Contributions
 
-- **Ali Mohammadi:** Database design and SQL implementation.
+- **[Ali Mohammadi](https://github.com/alimohammadi05):** Database design and SQL implementation.
 - **Frontend and Backend Integration:** Web interface development and integration of the application components.
 
-This project represents a collaborative effort. The contribution descriptions reflect the responsibilities assigned to each team member.
+This project was developed collaboratively as part of a university assignment.
 
 ## Security Notes
 
